@@ -1,0 +1,64 @@
+breath = 65535
+hp = 20
+name = Tank_happy
+pitch = 44.7
+position = (-325.71,214.05,-216.85)
+version = 1
+yaw = -354.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pinewood
+Item default:cobble
+Item default:dirt
+Item default:water_source
+Item default:lava_source
+Item bucket:bucket_lava
+Item bucket:bucket_empty
+Item bucket:bucket_empty
+Item default:sand
+Item default:coal_lump
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

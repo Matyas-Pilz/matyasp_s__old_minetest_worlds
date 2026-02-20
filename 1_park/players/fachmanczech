@@ -1,0 +1,64 @@
+breath = 65535
+hp = 20
+name = fachmanczech
+pitch = 5.1
+position = (-1483.44,135,40.95)
+version = 1
+yaw = -62
+PlayerArgsEnd
+List main 32
+Width 0
+Item doors:door_wood
+Item default:sign_wall
+Item default:coalblock
+Item stairs:stair_desert_stonebrick
+Item default:glass
+Item stairs:stair_pinewood
+Item default:pinewood
+Item default:torch 81
+Item farming:seed_wheat
+Item default:cobble
+Item default:coal_lump 3
+Item default:grass_1
+Item default:water_source 2
+Item default:sand
+Item doors:door_steel
+Empty
+Item stairs:slab_pinewood
+Item default:steelblock 2
+Item default:ladder
+Item stairs:stair_sandstonebrick
+Item doors:door_glass
+Item default:diamond 9
+Item default:obsidian_glass
+Item stairs:stair_cobble
+Item default:chest_locked
+Item default:fence_wood
+Item default:cactus
+Item default:chest
+Item default:goldblock
+Item default:dirt 2
+Empty
+Item screwdriver:screwdriver
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

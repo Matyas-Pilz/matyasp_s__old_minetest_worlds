@@ -1,0 +1,64 @@
+breath = 65535
+hp = 20
+name = nene
+pitch = 6.5
+position = (-141.55,175,-84.34)
+version = 1
+yaw = 7.58002
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:brick
+Item default:bookshelf
+Item default:gravel
+Item bucket:bucket_empty
+Item bucket:bucket_empty
+Item bucket:bucket_empty
+Item bucket:bucket_empty
+Item default:jungleleaves
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item default:cobble
+Empty
+Empty
+Empty
+Item default:glass
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Empty
+Empty
+Empty
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Empty
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+Item bucket:bucket_lava
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

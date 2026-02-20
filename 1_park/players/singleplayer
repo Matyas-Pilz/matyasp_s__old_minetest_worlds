@@ -1,0 +1,64 @@
+breath = 65535
+hp = 20
+name = singleplayer
+pitch = 43.7
+position = (-1347,135,201.77)
+version = 1
+yaw = -327.48
+PlayerArgsEnd
+List main 32
+Width 0
+Item stairs:stair_pinewood
+Item stairs:stair_junglewood
+Item doors:door_steel
+Item stairs:slab_pinewood
+Item default:sign_wall
+Item default:torch
+Item default:glass
+Item default:pinewood
+Item default:coalblock
+Item default:obsidian_glass 2
+Item default:cobble
+Item default:dirt 64
+Item default:mese
+Item screwdriver:screwdriver
+Item default:pick_diamond 1 54800
+Item default:coal_lump
+Item vessels:drinking_glass 5
+Item default:bookshelf
+Item doors:door_wood
+Item stairs:stair_wood
+Item default:diamondblock
+Item stairs:stair_desert_stonebrick
+Item default:gravel
+Empty
+Item stairs:slab_wood
+Item vessels:drinking_glass
+Item default:brick
+Empty
+Item doors:door_glass 2
+Item vessels:glass_bottle
+Item default:chest_locked
+Item default:tree 2
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
